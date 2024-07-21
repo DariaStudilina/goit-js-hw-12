@@ -4,7 +4,7 @@ import "izitoast/dist/css/iziToast.min.css";
 
 const BASE_URL = "https://pixabay.com";
 const END_POINT = "/api/";
-const API_KEY = "44024733-f77ed4f0ed7e81c67856c8782";
+const API_KEY = "45032404-48d319b76024d102c65f50bc8";
 
 export async function getPosts(searchQuery, page = 1, perPage = 15) {
 
